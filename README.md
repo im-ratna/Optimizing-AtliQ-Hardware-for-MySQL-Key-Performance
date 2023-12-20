@@ -18,12 +18,16 @@ The project's primary goal was to optimize the Atliq Hardware MySQL database for
 
 ### Success Criteria
 *   Dashboard uncovering sales order insights with the latest data available.
-*   Sales team able to make better decisions, proving a 10% cost saving of total spend.
+*   Sales team able to make better decisions, providing a 10% cost saving of total spend.
 *   Sales analysis stops manual data gathering, saving 20% of business time for value-added activities.
   ## Project Objectives
 ### Data Exploration
-*   Thoroughly examine the dataset, understanding tables, relationships, and data types.
+*  Thoroughly examine the dataset, understanding tables, relationships, and data types.
+*  After downloading data into your local system, now import data into MySQL-
+Visit MySQL →Servers →Data Import
+![Data import](https://github.com/RatnaSingh007/Optimizing-AtliQ-Hardware-for-MySQL-Key-Performance/assets/146417100/2352e50c-32b0-4880-8be2-13c25cef1355)
 
+![green](https://github.com/RatnaSingh007/Optimizing-AtliQ-Hardware-for-MySQL-Key-Performance/assets/146417100/c33237b8-213e-4e2a-8002-2a2c1bd2b96c)
 ### Data Analysis
 *  Perform SQL queries to answer critical business questions, such as sales trends and popular products.
 
